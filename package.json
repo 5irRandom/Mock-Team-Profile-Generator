@@ -1,0 +1,27 @@
+{
+  "name": "mock-team-profile-generator",
+  "version": "1.0.0",
+  "description": "Homework 10, in which we create a command line app that generates an html page with data inputted",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5irRandom/Mock-Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5irRandom/Mock-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/5irRandom/Mock-Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  }
+}
